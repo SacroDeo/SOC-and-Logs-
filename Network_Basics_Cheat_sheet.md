@@ -27,6 +27,11 @@
 
 ## 🗂 OSI Model Overview
 
+<img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/7aa4fb8a-b734-4adf-9abb-f19af5cd2fc6" />
+
+
+
+
 
 
 ---
@@ -59,3 +64,4 @@ OSI is like a **blueprint**, TCP/IP is the **actual system** we use.
 ---
 **Tip:** To remember the OSI layers, use:  
 **"All People Seem To Need Data Processing"** (Application → Physical).
+
